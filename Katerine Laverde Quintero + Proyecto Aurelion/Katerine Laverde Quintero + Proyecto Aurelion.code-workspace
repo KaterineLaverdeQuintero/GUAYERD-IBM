@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Aurelion-20251003T014037Z-1-001/Aurelion/.vscode/excel-pq-symbols"
+		}
+	],
+	"settings": {
+		"powerquery.client.additionalSymbolsDirectories": [
+			"c:/Users/kater/OneDrive/Imágenes/Escritorio/FUNDAMENTOS IA/Katerine Laverde Quintero + Proyecto Aurelion/.vscode/excel-pq-symbols"
+		]
+	}
+}
